@@ -22,4 +22,4 @@ const PostList = ({posts, onDelete}) => {
     )
 }
 
-export default PostList;
+export default PostList; 
